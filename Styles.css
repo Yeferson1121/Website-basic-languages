@@ -37,4 +37,9 @@ body{
     font: bold 14px verdana;
     display: inline-block;
 }
+.seccion {
+    margin: 20px;
+    width: 600px;
+    border: 1px solid black;
+}
 
