@@ -26,4 +26,9 @@ body{
     background: #fbcc22;
     padding: 15px;
 }
+.menu li{
+    list-style: none;
+    padding: 5px;
+    font: bold 14px verdana;
+    display: inline-block;}
 
