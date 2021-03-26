@@ -44,6 +44,13 @@ body{
     margin: 20px;
     float: left;
 }
+article{
+    background: lightgrey;
+    border: 1px solid #999;
+    padding: 20px;
+    margin-bottom: 15px;
+
+}
 .columna{
     width: 250px;
     border: 1px solid black;
@@ -53,4 +60,5 @@ body{
 .pie{
     clear: both;
 }
+
 
