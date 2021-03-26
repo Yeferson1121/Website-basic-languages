@@ -61,12 +61,22 @@ time{
     border: 1px solid black;
     margin: 20px;
     float: left;
+    background: rgb(202, 199, 199);
+}
+
+.columna blockquote{
+    padding: 5px;
+    margin-bottom: 5px;
+    text-align: left;
 }
 .pie{
     clear: both;
     padding: 20px;
     background: black;
     color: white;
+}
+.direccion {
+    text-align: center;
 }
 
 
