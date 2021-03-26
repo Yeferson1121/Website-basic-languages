@@ -50,4 +50,7 @@ body{
     margin: 20px;
     float: left;
 }
+.pie{
+    clear: both;
+}
 
