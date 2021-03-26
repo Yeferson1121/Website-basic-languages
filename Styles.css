@@ -45,11 +45,17 @@ body{
     float: left;
 }
 article{
-    background: lightgrey;
+    background: rgb(202, 199, 199);
     border: 1px solid #999;
     padding: 20px;
     margin-bottom: 15px;
 
+}
+article footer{
+    text-align: right;
+}
+time{
+    color: rgb(221, 211, 211);
 }
 .columna{
     width: 250px;
