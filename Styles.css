@@ -16,5 +16,9 @@ div{
     width: 960px;
     border: 1px solid black;
     margin: 15px auto;
-    
+}
+.cabecera {
+    background: #f9ca1f;
+    border: 1px solid black;
+    padding: 15px;
 }
