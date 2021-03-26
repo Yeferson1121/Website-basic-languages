@@ -12,7 +12,7 @@ header,nav, section,article,footer,aside,hgroup{
 body{
     text-align: center;
 }
-div{
+.agrupar{
     width: 960px;
     border: 1px solid black;
     margin: 15px auto;
@@ -26,3 +26,4 @@ div{
     background: #fbcc22;
     padding: 15px;
 }
+
